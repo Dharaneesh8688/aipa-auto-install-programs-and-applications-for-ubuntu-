@@ -22,14 +22,15 @@ This repository contains a Bash script designed to help users easily select and 
    cd installer
 
    ![guide](/Screenshot%20from%202024-08-05%2015-29-27.png)
-2. **Make the Script Executable**:
+   
+   ![guide](/Screenshot%20from%202024-08-05%2015-30-08.png)
+3. **Make the Script Executable**:
      chmod +x apt.sh
-3. **Run the Script**:
+4. **Run the Script**:
    ./apt.sh
 
 
-   ![guide](/Screenshot%20from%202024-08-05%2015-30-08.png)
-4. **Select Packages**:
+5. **Select Packages**:
     The script will display a list of programs and applications in columns.
 
     Enter the numbers corresponding to the packages you wish to install, separated by spaces (e.g., 1 2 5).
